@@ -31,11 +31,13 @@ Agora que nossos dados estão de acordo coma as condições do cliente, faremos 
 
 1. Foi verificada a média de preços de aluguéis para cada cidade e percebemos que a diferença é pequena. Mas vimos também que a maior parte das casas de Barcelona é cara, enquanto em Porto é o contrário.
    <img src="https://github.com/isabelesb/Alugando_casa_com_base_em_Dados/blob/main/quantidade_de_casas_por_preco_por_cidade.png" alt="Falha no carregamento. Vide imagem: quantidade_de_casas_por_preco_por_cidade.png">
-   Por isso, decidimos continuar procurando apenas na Cidade do Porto.
+Por isso, decidimos continuar procurando apenas na Cidade do Porto.
+
 2. O passo seguinte é escolher em qual andar focar. Relacionamos então o andar da casa/apartamento com o preço do aluguel.
    <img src="https://github.com/isabelesb/Alugando_casa_com_base_em_Dados/blob/main/valor_do_aluguel_pela_quantidade_de_andares.png" alt="Falha no carregamento. Vide imagem: valor_do_aluguel_pela_quantidade_de_andares.png">
-   Com o gráfico, percebemos que a melhor opção é o 16º andar, já que andares mais altos têm preferência para o cliente.
-5. Com essa escolha, precebemos que restam agora apenas duas opções. E com isso podemos concluir o projeto.
+Com o gráfico, percebemos que a melhor opção é o 16º andar, já que andares mais altos têm preferência para o cliente.
+
+3. Com essa escolha, precebemos que restam agora apenas duas opções. E com isso podemos concluir o projeto.
    <img src="https://github.com/isabelesb/Alugando_casa_com_base_em_Dados/blob/main/opcoes_finais.png" alt="Falha no carregamento. Vide imagem: opcoes_finais.png">
 
 ## Avaliação:
